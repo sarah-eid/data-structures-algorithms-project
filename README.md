@@ -39,13 +39,12 @@ Each solution handles constraints up to 10⁵ nodes/queries with optimal time co
 
 ## Repository Structure
 ```
-├── src/
-│ ├── problem1/ # Super Maximum Cost Queries
-│ │ └── SuperMaximumCostQueries.java
-│ ├── problem2/ # Library Query
-│ │ └── LibraryQuery.java
-│ └── problem3/ # Rooted Tree
-│ └── RootedTree.java
+├── problem1/ # Super Maximum Cost Queries
+│  └── SuperMaximumCostQueries.java
+├── problem2/ # Library Query
+│  └── LibraryQuery.java
+└── problem3/ # Rooted Tree
+   └── RootedTree.java
 ├── docs/
 │ ├── Final_Project_CS2011.pdf # Code submission document
 │ └── Data structures Final Project.pdf # Presentation slides
